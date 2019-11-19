@@ -1,0 +1,35 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+.card {
+  padding-top: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.fa {
+  font-size: 40px;
+  width: 50px;
+  text-align: center;
+
+  margin: 5px 2px;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+    color: black;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
